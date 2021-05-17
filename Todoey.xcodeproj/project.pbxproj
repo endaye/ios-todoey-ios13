@@ -66,8 +66,8 @@
 		205B3BE62651E32D00B12C14 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				205B3C582652836800B12C14 /* Item.swift */,
 				205B3C5A2652837400B12C14 /* Category.swift */,
+				205B3C582652836800B12C14 /* Item.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -84,8 +84,8 @@
 		205B3BE82651E35100B12C14 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				EB2BE4FD239524DB00FB933B /* TodoListViewController.swift */,
 				205B3C54265214C800B12C14 /* CategoryViewController.swift */,
+				EB2BE4FD239524DB00FB933B /* TodoListViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
